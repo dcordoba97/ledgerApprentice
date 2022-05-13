@@ -1,0 +1,22 @@
+{
+  "name": "ledgerapprentice15",
+  "version": "1.0.0",
+  "description": "A ledgercito CLI based on The official ledger",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Diego Cordoba",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "commander": "^9.2.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "bin": {
+    "ledgerApprentice15": "./index.js"
+  }
+}
