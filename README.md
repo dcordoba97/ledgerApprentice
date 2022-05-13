@@ -2,6 +2,17 @@
 
 The usage of this Ledger-like program is pretty straight forward.
 ______________________________________________________________________________
+REQUIREMENTS
+NodeJs, JS, IDE, This folder, basic terminal knowledge.
+______________________________________________________________________________
+INSTRUCTIONS
+
+1.- Open the folder in your favorite IDE
+2.- Once open, open a new terminal window
+3.- run :$ npm i -g
+4.- Wait for everything to set up and you are good to go!
+5.- try using one of the examples!
+______________________________________________________________________________
 COMMANDS
 The avaliable commands are: print
 ______________________________________________________________________________
